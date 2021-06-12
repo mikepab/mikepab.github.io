@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Biology is a tangled web of interactions, whether you're looking at biomolecules within a cell, or organisms within a population. My main research approach is to develop mathematical models, calibrated to experimental data, to quantitatively interpret and predict the behavior of biological systems. The goal of these models is not to complete a 'perfect simulation' of the underlying biology, but rather to generate new hypotheses, to test our underlying assumptions, and (ideally!) produce new understanding of the biology from first principles.
+Biology is a tangled web of interactions, whether you're looking at biomolecules within a cell, or organisms within a population. My main research approach is to develop mathematical models, calibrated them experimental data, then use them to quantitatively interpret and predict the behavior of biological systems. These models are not meant to be a perfect simulation of the underlying biology. Instead, I build models to generate new hypotheses, to test underlying assumptions, and to produce new understanding of the biology from first principles.
 
 ### Systems virology
 I am performing computational modeling for a variety of SARS-CoV-2 projects, spanning from simulating treatments within individuals to assessing mechanisms of epidemiological spread. I am also developing some experimental skills by investigating signaling networks and viral fate decisions in cytomegalovirus.
